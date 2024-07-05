@@ -513,11 +513,7 @@ nav .fa-solid {
   .contact-left p {
     text-decoration: none;
   }
-  .contact-left p i {
-    color: #ff004f;
-    margin-right: 15px;
-    font-size: 20px;
-  }
+  
 }
 
 #msg {

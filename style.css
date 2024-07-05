@@ -70,17 +70,15 @@ nav ul li a:hover::after {
   position: absolute;
   width: 40px;
   height: 40px;
-  left:180px;
+  left: 180px;
   margin: 20px;
- 
 }
 .head-social .git {
   position: absolute;
   width: 40px;
   height: 40px;
-  left:100px;
+  left: 100px;
   margin: 20px;
- 
 }
 
 .header-text h1 {
@@ -360,6 +358,8 @@ nav ul li a:hover::after {
 
 
 /* ----contact---*/
+
+
 .contact-left {
   flex-basis: 35%;
 }
